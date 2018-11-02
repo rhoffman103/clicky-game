@@ -1,13 +1,17 @@
 import React from "react";
+import "./card.css";
 
 class Card extends React.Component { 
     render() {
         return (
-        <div className="card ml-2 mr-2 float-left" onClick={() => this.props.handleClick(this.props.value)}>
-            <div className="card-body">
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div 
+                className="card m-4 float-left" 
+                onClick={() => this.props.handleClick(this.props.id)}
+            >
+                <div className="card-body">
+                    <img className="card-img-top" src={require("../../images/" + this.props.image)} alt="card"></img>
+                </div>
             </div>
-        </div>
         );
     }
 }

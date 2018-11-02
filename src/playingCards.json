@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "archer.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "archer-2.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "barry_cyborg_400x400.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "cheryl.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "cyril.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "krieger.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "krieger-2.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "lana.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "malory.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "pam.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "ray-drinking.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "ray-guns.png",
+        "clicked": false
+    }
+]
