@@ -1,62 +1,50 @@
 [
     {
         "id": 1,
-        "image": "archer.png",
-        "clicked": false
+        "image": "archer.png"
     },
     {
         "id": 2,
-        "image": "archer-2.png",
-        "clicked": false
+        "image": "archer-2.png"
     },
     {
         "id": 3,
-        "image": "barry_cyborg_400x400.png",
-        "clicked": false
+        "image": "barry_cyborg_400x400.png"
     },
     {
         "id": 4,
-        "image": "cheryl.png",
-        "clicked": false
+        "image": "cheryl.png"
     },
     {
         "id": 5,
-        "image": "cyril.jpg",
-        "clicked": false
+        "image": "cyril.jpg"
     },
     {
         "id": 6,
-        "image": "krieger.png",
-        "clicked": false
+        "image": "krieger.png"
     },
     {
         "id": 7,
-        "image": "krieger-2.png",
-        "clicked": false
+        "image": "krieger-2.png"
     },
     {
         "id": 8,
-        "image": "lana.png",
-        "clicked": false
+        "image": "lana.png"
     },
     {
         "id": 9,
-        "image": "malory.png",
-        "clicked": false
+        "image": "malory.png"
     },
     {
         "id": 10,
-        "image": "pam.png",
-        "clicked": false
+        "image": "pam.png"
     },
     {
         "id": 11,
-        "image": "ray-drinking.png",
-        "clicked": false
+        "image": "ray-drinking.png"
     },
     {
         "id": 12,
-        "image": "ray-guns.png",
-        "clicked": false
+        "image": "ray-guns.png"
     }
 ]

@@ -14,12 +14,12 @@ const Navbar = props => (
 		<div className="navbar-collapse collapse w-100" id="collapsingNavbar3">
 			<ul className="navbar-nav w-100 justify-content-center">
 				<li className="nav-item active">
-					Guess Component
+					{props.currentGuess}
 				</li>
 			</ul>
 			<ul className="nav navbar-nav ml-auto w-100 justify-content-end">
 				<li className="nav-item">
-					Score:  | Top Score:
+					Score: {props.score} | Top Score: {props.topScore}
 				</li>
 			</ul>
 		</div>
